@@ -1,12 +1,86 @@
-# 💫 About Me:
-Hi 👋, I'm Celaldogan Gunes, also known as celal1387.<br><br>❤️ I love places that do not contain any type of gui.<br>🐧 Backend, Linux, Servers etc.<br><br>🛠️ I’m currently working on 1387MMO.net game.<br>🎮 My Games: https://store.steampowered.com/search/?developer=Celaldogan%20Gunes
+### 👋 Hi there, I'm Celaldoğan Güneş
 
+🎓 I'm a Computer Science graduate from Ege University, passionate about backend development, clean code, and building scalable systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celaldogangunes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CelaldoganGunes) 
+🛠️ I’ve worked with various stacks in academic and personal projects — from RESTful APIs to mobile and game development. I value simplicity, functionality, and maintainability in software.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### 🔧 Tech Stack
+
+**Backend:**  
+☑️ Java (Spring Boot), Node.js, Express.js, .NET Core, Python, C#
+
+**Frontend:**  
+☑️ React.js, Next.js, EJS
+
+**Database:**  
+☑️ MySQL, MongoDB, SQL
+
+**Mobile:**  
+☑️ Kotlin
+
+**Game Development:**  
+☑️ Unity, GameMaker, Photon, Mirror Networking
+
+**Tools & Systems:**  
+☑️ Git, Linux, REST APIs, WebSockets
+
+---
+
+### 💼 Experience
+
+**Software Developer @ AR ARGE Teknoloji (Apr 2024 – Sep 2024)**  
+- Built RESTful APIs using Node.js, Express, MongoDB  
+- Developed web applications with React, Next.js, and EJS  
+- Created cross-platform AR/XR prototypes using Unity and Photon
+
+---
+
+### 🚀 Projects
+
+🟢 **6 Shots 1 Word**  
+A Wordle-like game developed in Unity with multi-language and game mode support.  
+*To be published on Android & iOS.*
+
+🟢 **BankMicroservices**  
+Microservices-based banking system. I developed the account and mock notification services in Java Spring Boot.  
+[GitHub](https://github.com/CelaldoganGunes/BankMicroservices)
+
+🟢 **UniBazaarLite**  
+A .NET Core web application that combines MVC and Razor Pages.  
+[GitHub](https://github.com/CelaldoganGunes/UniBazaarLite)
+
+🟢 **TravelApp**  
+A Kotlin-based mobile travel guide app listing tourist spots and details.  
+[GitHub](https://github.com/CelaldoganGunes/TravelApp)
+
+🟢 **Dice of Knights**  
+A digital version of a board game I designed in middle school. Released on Steam.  
+[Steam](https://store.steampowered.com/app/1600760/Dice_Of_Knights/)
+
+🟢 **1387: MMO Strategy**  
+A text-based multiplayer strategy game inspired by old-school social games.  
+[Steam](https://store.steampowered.com/app/2113200/1387_MMO_Strategy/)
+
+🟢 **BiwaNetwork**  
+A Minecraft server project focused on fair play and anti-cheat systems. Learned Java, Linux server management, and community leadership.
+
+---
+
+### 📜 Certifications
+
+- Cisco Networking Academy: NDG Linux Essentials  
+- Cisco Networking Academy: NDG Linux Unhatched
+
+---
+
+### 📫 Contact
+
+🔗 [LinkedIn](https://www.linkedin.com/in/celaldogangunes/)  
+💻 [GitHub](https://github.com/CelaldoganGunes)  
+📩 celaldogan2002@outlook.com
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Celaldogangunes&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Celaldogangunes&theme=default&hide_border=false)<br/>
